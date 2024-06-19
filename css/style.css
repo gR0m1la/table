@@ -1,0 +1,109 @@
+#Italy {
+    background: url(images/1.jpg) no-repeat center center/cover;
+}
+
+#France {
+    background: url(images/2.jpg) no-repeat center center/cover;
+}
+
+#Switzerland {
+    background: url(images/3.jpg) no-repeat center center/cover;
+}
+
+#Hungary {
+    background: url(images/4.jpg) no-repeat center center/cover;
+}
+
+#Romania {
+    background: url(images/5.jpg) no-repeat center center/cover;
+}
+
+#Japan {
+    background: url(images/6.jpg) no-repeat center center/cover;
+}
+
+#Afghanistan {
+    background: url(images/7.jpg) no-repeat center center/cover;
+}
+
+#India {
+    background: url(images/8.jpg) no-repeat center center/cover;
+}
+
+#Brazil {
+    background: url(images/9.jpg) no-repeat center center/cover;
+}
+
+#Canada {
+    background: url(images/10.jpg) no-repeat center center/cover;
+}
+
+#Argentina {
+    background: url(images/11.jpg) no-repeat center center/cover;
+}
+
+#Colombia {
+    background: url(images/12.jpg) no-repeat center center/cover;
+}
+
+#England {
+    background: url(images/13.jpg) no-repeat center center/cover;
+}
+
+#Mexico {
+    background: url(images/14.jpg) no-repeat center center/cover;
+}
+
+body {
+    background: #fde49d;
+}
+
+table {
+    width: 50%;
+    background: linear-gradient(90deg, #ffffff, #feffca);
+    border: 1px solid #000000;
+    opacity: 0.85;
+}
+.ist1{
+    border-top: 0px;
+    border-bottom: 0px;
+}
+.ist2{
+    border-top: 0px;
+}
+h1 {
+    font-weight: 900;
+    font-size: 150%;
+    font-family: Vollkorn-Regular;
+    color: #f3cb5f;
+}
+
+h2 {
+    font-family: monospace;
+    text-shadow: 1px 1px 1px white;
+    color: black;
+}
+
+span {
+    font-weight: 100;
+    font-size: 200%;
+    font-family: Vollkorn-Regular;
+}
+td {
+    font-size: 120%;
+    font-family: Vollkorn-Italic;
+    text-shadow: 1px 1px 1px white;
+    color: black;
+}
+
+
+.volga{
+	border: 1px solid #1e35ff;
+    font-size: 110%;
+}
+
+.size {
+    font-family: Roboto-Bold;
+    color: #1e35ff;
+    font-size: 110%;
+}

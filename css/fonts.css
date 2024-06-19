@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Vollkorn-Regular';
+    src: url(../fonts/Vollkorn/Vollkorn-Regular.eot);
+    src: url(../fonts/Vollkorn/Vollkorn-Regular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Vollkorn/Vollkorn-Regular.svg#Vollkorn-Regular) format('svg'),
+        url(../fonts/Vollkorn/Vollkorn-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
+
+@font-face {
+    font-family: 'Vollkorn-Italic';
+    src: url(../fonts/Vollkorn/Vollkorn-Italic.eot);
+    src: url(../Vollkorn-Italic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Vollkorn/Vollkorn-Italic.woff) format('woff'),
+        url(../fonts/Vollkorn/Vollkorn-Italic.svg#Vollkorn-Italic) format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(../fonts/Roboto-Bold/Roboto-Bold.eot);
+    src: url(../fonts/Roboto-Bold/Roboto-Bold.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Roboto-Bold/Roboto-Bold.svg#Roboto-Bold) format('svg'),
+        url(../fonts/Roboto-Bold/Roboto-Bold.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
